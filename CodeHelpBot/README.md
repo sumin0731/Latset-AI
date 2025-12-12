@@ -61,11 +61,7 @@ curl -X POST http://localhost:8000/code-help
 
 ## GitHub 링크
 
-📂 Repository: https://github.com/sm0731/
+📂 Repository: [https://github.com/sm0731/](https://github.com/sumin0731/Latset-AI/blob/main/CodeHelpBot)
 
 ---
 *작성일: 2025-12-12*
-=======
-# Latset-AI
-최신인공지능 실습 저장소
->>>>>>> b9ebd74629261e94409ae0d47bacc1356fde9999
