@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CodeHelpBot - RAG 기반 코드 질문 API
 
 ## 개요 및 목적
