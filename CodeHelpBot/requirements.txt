@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+langchain
+langchain-community
+langchain-huggingface
+langchain-smith
+
+chromadb
+sentence-transformers
+
+pydantic>=1.10,<3.0
+python-dotenv
+
+httpx
+requests
